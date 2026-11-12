@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: kaaskoek03.github.io
+  baseUrl: kaaskoek03.github.io/BiblioStein-Characters
   ignorePatterns:
     - private
     - templates
