@@ -1,12 +1,16 @@
 
 
-
-
-```leaflet 
-id: trestoff
-defaultZoom:20
-image: [[map.png]]
+```base
+views:
+  - type: leaflet-map
+    name: Map
+    mapName: test
+    image: assets/Locke.png
+    height: 400
+    minZoom: -1.5
+    maxZoom: 2
+    defaultZoom: -1.5
+    zoomDelta: 0.25
+    scale: "0.2"
+    unit: km
 ```
-
-
-
