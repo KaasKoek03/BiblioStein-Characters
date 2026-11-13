@@ -1,4 +1,5 @@
-Location: 0614
 Affiliation: [[Ferigno]]
+Personality: As in twin peaks
 
-As in twin peaks
+Current Events:
+- Working under the aegis of [[Ferigno]].
